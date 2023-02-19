@@ -1,0 +1,104 @@
+<includeonly><div style="width:{{{width|auto}}}; height:230px; overflow:auto; margin-bottom:3px; padding-left:0.5em; border:1px solid #AAAAAA; -moz-border-radius-topleft:0.5em; -webkit-border-top-left-radius:0.5em; border-top-left-radius:0.5em;">
+{{{content|{{{1}}}}}}
+</div></includeonly><noinclude>__NOTOC__
+
+==Usage instructions==
+<pre><nowiki>
+{{scroll box
+|content=
+
+}}
+</nowiki></pre>
+
+NOTE: An optional '''width''' variable can be used to control the width of the scroll box:
+<pre><nowiki>
+{{scroll box
+|width=75%
+|content=
+
+}}
+</nowiki></pre>
+
+==Example==
+===Code===
+<pre><nowiki>
+{{scroll box
+|content=
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+</nowiki></pre>
+
+===Result===
+{{scroll box
+|content=
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+
+===Alternative code===
+<pre><nowiki>
+{{scroll box|
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+</nowiki></pre>
+
+===Result===
+{{scroll box|
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+*blah
+}}
+[[Category:Templates|Scroll box]]</noinclude>
